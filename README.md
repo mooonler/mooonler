@@ -1,7 +1,7 @@
 <h1 align="center">
 <img align="center" src="https://futurix.solutions/_next/static/media/logo-small.fbc43e61.svg" alt="futurix solutions" height="30" width="40" /> Oleksii Rychko <img align="center" src="https://futurix.solutions/_next/static/media/logo-small.fbc43e61.svg" alt="futurix solutions" height="30" width="40" />
 <br/>
-Lead <i>Blockchain</i> Software Engineer at <a href="https://futurix.solutions/" target="blank">FuturiX Solutions</a>
+Chiec Technology Officer at <a href="https://futurix.solutions/" target="blank">FuturiX Solutions</a>
 </h1>
 
 <h3>🌐 <a href="https://futurix.solutions/" target="blank">https://futurix.solutions/</a></h3>
